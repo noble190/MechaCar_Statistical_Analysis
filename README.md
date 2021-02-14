@@ -47,3 +47,10 @@ While the manufacturing data for all lots meets this design specification, we ca
 
 ### Lot 3
 ![T-Test - Lot 3](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/TTestLot3.png)
+
+### Summary
+Using the 95% confidence interval, we can see that we cannot reject the null hypothesis when looking at p-values for all lots, as well as lots 1 and 2 individually. The respective p-values of 0.06, 1, and 0.061 are all greater than 0.05. There is no statistical difference between the mean values for those samples and the population mean of 1500.
+However, the p-value for the Lot 3 sample mean of 0.042 is less than 0.05, indicating a possible statistically significant difference between the sample mean for lot 3 and the population mean of 1500.
+
+<hr>
+
