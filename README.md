@@ -34,3 +34,16 @@ While the manufacturing data for all lots meets this design specification, we ca
 
 <hr>
 
+## T-Tests on Suspension Coils
+
+### All Lots
+![T-Test - All Lots](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/TTestAll.png)
+
+### Lot 1
+![T-Test - Lot 1](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/TTestLot1.png)
+
+### Lot 2
+![T-Test - Lot 2](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/TTestLot2.png)
+
+### Lot 3
+![T-Test - Lot 3](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/TTestLot3.png)
