@@ -2,4 +2,4 @@
 
 ## Linear Regression to Predict MPG
 
-![Pivot Table Fields](https://github.com/noble190/DABootcamp/blob/main/resources/pivotTableFields.png)
+![Linear Regression Summary Statistics](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/LinearRegressionSummary.png)
