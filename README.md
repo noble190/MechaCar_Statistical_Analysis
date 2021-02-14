@@ -55,3 +55,13 @@ However, the p-value for the Lot 3 sample mean of 0.042 is less than 0.05, indic
 
 <hr>
 
+## Study Design: MechaCar vs Competition
+
+It may be worthwhile to examine the strength of the correlation between cost and several metrics of interest to the consumer: horsepower, mpg, safety scores, and maintenance cost, for both MechaCar and its competitors, in order to determine whether MechaCar offers the best value proposition to its customers. 
+
+For MechaCar and selected competitors, I would pair cost with each of the metrics above, and calculate Pearson's Correlation Coefficient for each pairing. 
+
+My null hypothesis would be that there is no significant difference in the value proposition offered by MechaCar and its competitors. The alternative hypothesis would indicate a significat difference in the value propositions.
+
+I would need data containing cost and the metrics listed above for each manufacturer examined. Ideally, I would take data for a range of years, group by year, and take an average of the correlation coefficients to produce more consistent results.
+
