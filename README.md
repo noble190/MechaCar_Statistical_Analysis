@@ -16,3 +16,13 @@ With a p-value of 0.0000000000535, we can reject the null hypothesis that the sl
 
 3. <b>Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? </b>
 A relatively high r-squared value of 0.71 indicates that this linear model is an effective predictor of mpgs of MechaCar prototypes.
+
+<hr>
+
+## Summary Statistics on Suspension Coils
+
+### All lots
+![Summary Statistics - all lots](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/Summary_Total.png)
+
+### Grouped by lot
+![Summary Statistics - grouped by lot](https://github.com/noble190/MechaCar_Statistical_Analysis/blob/main/img/Summary_PerLot.png)
